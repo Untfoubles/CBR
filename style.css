@@ -5,11 +5,11 @@ body {
    align-items: center;
    height: 100vh;
    margin: 0;
-   background: linear-gradient(to right, #ffecd2, #fcb69f);
+   background: linear-gradient(to right, #7cb6cf, #3ca5d2);
 }
 .container {
    background-color: white;
-   border: 2px solid #fcb69f;
+   border: 2px solid #9ff0fc;
    border-radius: 15px;
    padding: 30px;
    width: 90%;
@@ -30,11 +30,11 @@ body {
    margin-bottom: 10px;
    width: 100%;
    text-align: center;
-   color: #fcb69f;
+   color: #3ca5d2;
 }
 .timer {
    font-weight: bold;
-   background-color: #fcb69f;
+   background-color: #157ca1;
    color: white;
    padding: 5px 10px;
    border-radius: 20px;
@@ -54,8 +54,8 @@ body {
    margin-bottom: 30px;
 }
 .option {
-   background-color: #ffecd2;
-   border: 2px solid #fcb69f;
+   background-color: #3ca5d2;
+   border: 2px solid #3ca5d2;
    border-radius: 20px;
    padding: 10px;
    width: 45%;
@@ -67,7 +67,7 @@ body {
    margin-right: 10px;
 }
 .submit-btn {
-   background-color: #fcb69f;
+   background-color: #3ca5d2;
    color: white;
    border: none;
    border-radius: 20px;
@@ -77,5 +77,5 @@ body {
    transition: background-color 0.3s;
 }
 .submit-btn:hover {
-   background-color: #f08a5d;
+   background-color: #3c4ffc;
 }
